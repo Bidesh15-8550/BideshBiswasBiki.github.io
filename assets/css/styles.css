@@ -301,8 +301,17 @@
   .skills__ux{
     width: 60%;
   }
+  .skills__dj{
+    width: 30%;
+  }
+  .skills__py{
+    width: 50%;
+  }
   .skills__laravel{
     width: 25%;
+  }
+  .skills__ml{
+    width: 20%;
   }
   .skills__img{
     border-radius: .5rem;
